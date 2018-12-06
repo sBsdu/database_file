@@ -1,0 +1,98 @@
+#computer{
+
+	border-style: none;
+	width: 20%;
+	background-color: #BAE6B1;
+	color: #7DB979;
+	border-radius: .7em;
+	padding-left: 10px;
+	padding-bottom: 90px;
+	
+
+
+}
+#web{
+
+	border-style: none;		
+	width: 20%;
+	background-color: #B0CFEC;
+	color: #84AECE;
+	border-radius: .7em;
+	padding-left:10px ;
+	padding-bottom: 90px;
+
+	}
+#web1{
+
+	border-style: none;		
+	width: 20%;
+	background-color: #B0CFEC;
+	color: #84AECE;
+	border-radius: .7em;
+	padding-left: 10px ;
+	padding-bottom: 90px;
+
+}
+	#web2{
+
+	border-style: none;		
+	width: 20%;
+	background-color: #B0CFEC;
+	color: #84AECE;
+	border-radius: .7em;
+	padding-left: 10px;
+	padding-bottom:50px;
+
+}
+
+	#data{
+
+	border-style: none;
+	width: 20%;
+	background-color: #E8AADB;
+	color: #A86A9C;
+	border-radius: .7em;
+	padding-left: 10px;
+	padding-bottom:50px ;
+		
+}
+	#data1{
+	border-style: none;
+	width: 20%;
+	background-color: #E8AADB;
+	color: #A86A9C;
+	border-radius: .7em;
+	padding-left: 10px;
+	padding-bottom:90px ;
+
+}
+	#Project{
+
+	border-style: none;
+	width: 20%;
+	background-color: #F7F2D4;
+	color: #E5DCBA;
+	border-radius: .7em;
+	padding-left: 10px;
+	padding-bottom: 50px;
+
+
+}
+	td {
+    border-bottom: 1pt dotted black;
+}
+.time,#day{
+	border-style: none;
+}
+#table{
+	height: 100%;
+	width: 80%;
+	float: left;
+
+
+}
+
+#technologyies,#fundamentals,#algorithms,#project1{
+
+	display: none;
+}
